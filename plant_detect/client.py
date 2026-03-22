@@ -8,7 +8,7 @@ import time
 HOST = '192.168.137.116'
 PORT = 5000
 
-run_proc = None  # 현재 실행 중인 run.py 프로세스 핸들 
+run_proc = None  # 현재 실행 중인 run.py 프로세스 핸들
 
 def stop_run_script():
     global run_proc
