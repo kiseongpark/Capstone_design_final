@@ -38,7 +38,7 @@
 ## ⚙️ 시스템 구성도
 
 <p align="center">
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/0cb9d8e6-4e59-4816-b241-52c8660e343e" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/0cb9d8e6-4e59-4816-b241-52c8660e343e" />
 </p>
 
 **화분 받침 제어는 그림에서 생략되어 있습니다(순차적으로 기능하는 것이 아님)**
