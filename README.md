@@ -98,7 +98,26 @@ Capstone_design_final
 
 **4. 환경 모니터링 시스템 및 자동 회전 화분 받침 구현**
 
-<img width="1087" height="337" alt="image" src="https://github.com/user-attachments/assets/305f9c5c-92ef-47f5-8f99-ee0222b161bb" />
+<img width="490" height="209" alt="image" src="https://github.com/user-attachments/assets/91d7502b-ca46-44ed-86ec-5593f587452a" />
+이미지 제작 : 이영은
+
+- RaspberryPi 1 : 표정 인식용
+- RaspberryPi 2 : 식물 인식용
+- ESP32 : 센서 허브
+
+- 통신 방법 :
+  1) 표정 인식용 라즈베리파이 - ESP32 : UART 통신
+  2) 라즈베리파이 2대 : TCP 소켓 통신
+
+### 화분 받침
+
+
+<img width="121" height="128" alt="image" src="https://github.com/user-attachments/assets/e6a753e0-d00d-4d42-80cd-53d345685cc2" />
+
+
+특징 : 
+- BH1750 조도 센서의 누적 조도값이 5000 lux 이상이 되면 화분이 180° 회전하도록 구현함.
+- Half-step 구동 방식을 적용한 스텝모터를 제어하여 정해진 각도만큼 안정적으로 회전하도록 구현함.
 
 ---
 
