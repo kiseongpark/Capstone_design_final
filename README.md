@@ -112,11 +112,10 @@ Capstone_design_final
   2) 라즈베리파이 2대 : TCP 소켓 통신
 ```
 
-### 화분 받침
+**화분 받침**
 
 
 <img width="121" height="128" alt="image" src="https://github.com/user-attachments/assets/e6a753e0-d00d-4d42-80cd-53d345685cc2" />
-
 
 특징 : 
 - BH1750 조도 센서의 누적 조도값이 5000 lux 이상이 되면 화분이 180° 회전하도록 구현함.
