@@ -75,7 +75,9 @@ Capstone_design_final
 ## 📊 결과
 
 2. 표정 인식 모델
-<img width="350" height="150" alt="image" src="https://github.com/user-attachments/assets/669dae9f-4b7f-4672-9b0d-d2e9eb630f05" />
+<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/669dae9f-4b7f-4672-9b0d-d2e9eb630f05" />
+
+
 전이학습과 경량 CNN 기반 표정 인식 모델을 구현하여 안정적인 감정 인식 성능을 확보하고, 생성형 AI 및 TTS를 활용한 실시간 노인 케어 기능을 구현함.
 
 ---
