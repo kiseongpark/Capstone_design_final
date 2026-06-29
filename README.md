@@ -99,6 +99,8 @@ Capstone_design_final
 **4. 환경 모니터링 시스템 및 자동 회전 화분 받침 구현**
 
 <img width="490" height="209" alt="image" src="https://github.com/user-attachments/assets/91d7502b-ca46-44ed-86ec-5593f587452a" />
+
+```text
 이미지 제작 : 이영은
 
 - RaspberryPi 1 : 표정 인식용
@@ -108,6 +110,7 @@ Capstone_design_final
 - 통신 방법 :
   1) 표정 인식용 라즈베리파이 - ESP32 : UART 통신
   2) 라즈베리파이 2대 : TCP 소켓 통신
+```
 
 ### 화분 받침
 
