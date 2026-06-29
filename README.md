@@ -100,9 +100,9 @@ Capstone_design_final
 
 <img width="490" height="209" alt="image" src="https://github.com/user-attachments/assets/91d7502b-ca46-44ed-86ec-5593f587452a" />
 
-```text
 이미지 제작 : 이영은
 
+```text
 - RaspberryPi 1 : 표정 인식용
 - RaspberryPi 2 : 식물 인식용
 - ESP32 : 센서 허브
