@@ -32,7 +32,6 @@
 | 남형우 | HW 설계(ESP32, Raspberry Pi)/3D 프린터, 화분 받침 (모터) 제어 |
 | 신수진 | 표정 인식 모델 생성 및 성능 개선(SW)/카메라, 스피커 연동 작업 |
 
-
 ---
 
 ## ⚙️ 시스템 구성도
@@ -42,4 +41,38 @@
 </p>
 
 **화분 받침 제어는 그림에서 생략되어 있습니다(순차적으로 기능하는 것이 아님)**
+
+---
+
+## 📂 프로젝트 구조
+
+```text
+Capstone_design_final
+│
+├── ESP32
+│   └── sesorconnect              # 센서 데이터 수집 및 Raspberry Pi UART 전송
+│
+├── emotion_detect
+│   ├── main.py                   # 표정 인식 메인 실행 파일
+│   ├── config.py                 # 환경 설정 파일
+│   └── module1
+│       ├── camera_control.py     # 카메라 제어
+│       ├── emotion.py            # 표정 인식 및 분석
+│       ├── notifier.py           # 알림 전송
+│       └── sensors.py            # 센서 데이터 처리
+│
+├── plant_detect
+│   ├── run.py                    # 식물 인식 메인 실행 파일
+│   ├── client.py                 # 통신 클라이언트
+│   └── module2
+│       ├── pushbullet_utils.py   # Pushbullet 알림 기능
+│       └── rotating_pot.py       # 누적 조도 기반 화분 회전 제어
+│
+├── 5조 논문_박기성,신수진,이영은,남형우_최종본.hwp
+└── README.md
+```
+
+---
+
+
 
