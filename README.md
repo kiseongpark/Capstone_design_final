@@ -76,7 +76,9 @@ Capstone_design_final
 
 **1. 화분 외형**
 
-
+<p align="center">
+<img width="887" height="308" alt="image" src="https://github.com/user-attachments/assets/ef69b5b7-cbdd-416f-a0f2-a4dae760c54a" />
+</p>
 
 **2. 표정 인식 모델**
 
@@ -84,7 +86,7 @@ Capstone_design_final
 <img width="493" height="187" alt="image" src="https://github.com/user-attachments/assets/de6456b9-af36-45f8-9613-5685f0f9d371" />
 
 
-- 데이터셋: FER2013(베이스 모델) → RAF-DB 전이학습 적용
+- 데이터셋: FER2013(베이스 모델) → RAF-DB 전이학습 적용
 - ONNX 변환, FP16 양자화 → 모델 경량화. 
 - 라즈베리파이5 환경: 평균 5~10 FPS
 - 표정 인식 정확도 80.36% 달성
