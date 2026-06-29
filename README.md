@@ -123,5 +123,10 @@ Capstone_design_final
 
 ---
 
+## 🎥 실행 영상
+
+<img width="400" height="225" alt="성과포럼 발표" src="https://github.com/user-attachments/assets/7abe3948-f6ae-451f-912c-331c7e8d5d6b" />
+
+
 
 
