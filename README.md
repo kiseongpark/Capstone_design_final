@@ -92,6 +92,10 @@ Capstone_design_final
 - 표정 인식 정확도 80.36% 달성
 - Sad, Happy 감정: 높은 인식 신뢰도 확보
 
+**3. 식물 인식 및 성장일지 작성 시스템**
+
+<a href="https://github.com/kiseongpark/Capstone_Design-Growth_journal_with_raspberry-Pi5">제작 과정 및 결과
+
 ---
 
 
