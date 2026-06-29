@@ -98,6 +98,8 @@ Capstone_design_final
 
 **4. 환경 모니터링 시스템 및 자동 회전 화분 받침 구현**
 
+<img width="1087" height="337" alt="image" src="https://github.com/user-attachments/assets/305f9c5c-92ef-47f5-8f99-ee0222b161bb" />
+
 ---
 
 
