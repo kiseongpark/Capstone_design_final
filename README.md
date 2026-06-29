@@ -81,7 +81,8 @@ Capstone_design_final
 **2. 표정 인식 모델**
 
 <img width="281" height="221" alt="image" src="https://github.com/user-attachments/assets/225c3eb2-51f2-45b9-826e-dbbbc7fcfd30" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/669dae9f-4b7f-4672-9b0d-d2e9eb630f05" />
+<img width="493" height="187" alt="image" src="https://github.com/user-attachments/assets/de6456b9-af36-45f8-9613-5685f0f9d371" />
+
 
 - 데이터셋: FER2013(베이스 모델) → RAF-DB 전이학습 적용
 - ONNX 변환, FP16 양자화 → 모델 경량화. 
