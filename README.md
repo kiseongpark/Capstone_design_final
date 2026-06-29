@@ -96,6 +96,8 @@ Capstone_design_final
 
 <a href="https://github.com/kiseongpark/Capstone_Design-Growth_journal_with_raspberry-Pi5">제작 과정 및 결과
 
+**4. 환경 모니터링 시스템 및 자동 회전 화분 받침 구현**
+
 ---
 
 
